@@ -1,0 +1,1 @@
+/diario/inserir/atividades
